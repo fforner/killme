@@ -1,0 +1,4299 @@
+
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://scottgrannis.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://scottgrannis.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Calafia Beach Pundit - Atom" href="https://scottgrannis.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Calafia Beach Pundit - RSS" href="https://scottgrannis.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Calafia Beach Pundit - Atom" href="https://www.blogger.com/feeds/6616959642391988608/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/14028519647946868684" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://scottgrannis.blogspot.com/' property='og:url'/>
+<meta content='Calafia Beach Pundit' property='og:title'/>
+<meta content='' property='og:description'/>
+<title>Calafia Beach Pundit</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------------
+Blogger Template Style Sheet
+Name:     Scribe
+Date:     27 Feb 2004
+Updated by: Blogger Team
+------------------------------------------------------ */
+/* Defaults
+----------------------------------------------- */
+body {
+margin:0;
+padding:0;
+font-size: small;
+text-align:center;
+color:#29303b;
+line-height:1.3em;
+background:#483521 url("https://resources.blogblog.com/blogblog/data/scribe/bg.gif") repeat;
+}
+blockquote {
+font-style:italic;
+padding:0 32px;
+line-height:1.6;
+margin-top:0;
+margin-right:0;
+margin-bottom:.6em;
+margin-left:0;
+}
+p {
+margin:0;
+padding:0;
+}
+abbr, acronym {
+cursor:help;
+font-style:normal;
+}
+code {
+font-size: 90%;
+white-space:normal;
+color:#666;
+}
+hr {display:none;}
+img {border:0;}
+/* Link styles */
+a:link {
+color:#473624;
+text-decoration:underline;
+}
+a:visited {
+color: #956839;
+text-decoration:underline;
+}
+a:hover {
+color: #956839;
+text-decoration:underline;
+}
+a:active {
+color: #956839;
+}
+/* Layout
+----------------------------------------------- */
+#outer-wrapper {
+background-color:#473624;
+border-left:1px solid #332A24;
+border-right:1px solid #332A24;
+width:700px;
+margin:0px auto;
+padding:8px;
+text-align:center;
+font: normal normal 89% Verdana, sans-serif;
+}
+#main-top {
+width:700px;
+height:49px;
+background:#FFF3DB url("https://resources.blogblog.com/blogblog/data/scribe/bg_paper_top.jpg") no-repeat top left;
+margin:0px;
+padding:0px;
+display:block;
+}
+#main-bot {
+width:700px;
+height:81px;
+background:#FFF3DB url("https://resources.blogblog.com/blogblog/data/scribe/bg_paper_bot.jpg") no-repeat top left;
+margin:0;
+padding:0;
+display:block;
+}
+#wrap2 {
+width:700px;
+background:#FFF3DB url("https://resources.blogblog.com/blogblog/data/scribe/bg_paper_mid.jpg") repeat-y;
+margin-top: -14px;
+margin-right: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+text-align:left;
+display:block;
+}
+#wrap3 {
+padding:0 50px;
+}
+.Header {
+}
+h1 {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:6px;
+padding-left:0;
+font: normal normal 223% Georgia, Times, serif;
+color: #612e00;
+}
+h1 a:link {
+text-decoration:none;
+color: #612e00;
+}
+h1 a:visited {
+text-decoration:none;
+}
+h1 a:hover {
+border:0;
+text-decoration:none;
+}
+.Header .description {
+margin:0;
+padding:0;
+line-height:1.5em;
+color: #29303B;
+font: italic normal 89% Georgia, Times New Roman, sans-serif;
+}
+#sidebar-wrapper {
+clear:left;
+}
+#main {
+width:430px;
+float:right;
+padding:8px 0;
+margin:0;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar {
+width:150px;
+float:left;
+padding:8px 0;
+margin:0;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#footer {
+clear:both;
+background:url("https://resources.blogblog.com/blogblog/data/scribe/divider.gif") no-repeat top left;
+padding-top:10px;
+_padding-top:6px; /* IE Windows target */
+}
+#footer p {
+line-height:1.5em;
+font-size:75%;
+}
+/* Typography :: Main entry
+----------------------------------------------- */
+h2.date-header {
+font-weight:normal;
+text-transform:uppercase;
+letter-spacing:.1em;
+font-size:90%;
+margin:0;
+padding:0;
+}
+.post {
+margin-top:8px;
+margin-right:0;
+margin-bottom:24px;
+margin-left:0;
+}
+.post h3 {
+font-weight:normal;
+font-size:140%;
+color:#1b0431;
+margin:0;
+padding:0;
+}
+.post h3 a {
+color: #1b0431;
+}
+.post-body p {
+line-height:1.5em;
+margin-top:0;
+margin-right:0;
+margin-bottom:.6em;
+margin-left:0;
+}
+.post-footer {
+font-family: Verdana, sans-serif;
+font-size:74%;
+border-top:1px solid #BFB186;
+padding-top:6px;
+}
+.post-footer a {
+margin-right: 6px;
+}
+.post ul {
+margin:0;
+padding:0;
+}
+.post li {
+line-height:1.5em;
+list-style:none;
+background:url("https://resources.blogblog.com/blogblog/data/scribe/list_icon.gif") no-repeat left .3em;
+vertical-align:top;
+padding-top: 0;
+padding-right: 0;
+padding-bottom: .6em;
+padding-left: 17px;
+margin:0;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* Typography :: Sidebar
+----------------------------------------------- */
+.sidebar h2 {
+margin:0;
+padding:0;
+color:#211104;
+font: normal normal 150% Georgia, Times New Roman,sans-serif;
+}
+.sidebar h2 img {
+margin-bottom:-4px;
+}
+.sidebar .widget {
+font-size:86%;
+margin-top:6px;
+margin-right:0;
+margin-bottom:12px;
+margin-left:0;
+padding:0;
+line-height: 1.4em;
+}
+.sidebar ul li {
+list-style: none;
+margin:0;
+}
+.sidebar ul {
+margin-left: 0;
+padding-left: 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments {}
+#comments h4 {
+font-weight:normal;
+font-size:120%;
+color:#29303B;
+margin:0;
+padding:0;
+}
+#comments-block {
+line-height:1.5em;
+}
+.comment-author {
+background:url("https://resources.blogblog.com/blogblog/data/scribe/list_icon.gif") no-repeat 2px .35em;
+margin:.5em 0 0;
+padding-top:0;
+padding-right:0;
+padding-bottom:0;
+padding-left:20px;
+font-weight:bold;
+}
+.comment-body {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:0;
+padding-left:20px;
+}
+.comment-body p {
+font-size:100%;
+margin-top:0;
+margin-right:0;
+margin-bottom:.2em;
+margin-left:0;
+}
+.comment-footer {
+color:#29303B;
+font-size:74%;
+margin:0 0 10px;
+padding-top:0;
+padding-right:0;
+padding-bottom:.75em;
+padding-left:20px;
+}
+.comment-footer a:link {
+color:#473624;
+text-decoration:underline;
+}
+.comment-footer a:visited {
+color:#716E6C;
+text-decoration:underline;
+}
+.comment-footer a:hover {
+color:#956839;
+text-decoration:underline;
+}
+.comment-footer a:active {
+color:#956839;
+text-decoration:none;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+/* Profile
+----------------------------------------------- */
+#main .profile-data {
+display:inline;
+}
+.profile-datablock, .profile-textblock {
+margin-top:0;
+margin-right:0;
+margin-bottom:4px;
+margin-left:0;
+}
+.profile-data {
+margin:0;
+padding-top:0;
+padding-right:8px;
+padding-bottom:0;
+padding-left:0;
+text-transform:uppercase;
+letter-spacing:.1em;
+font-size:90%;
+color:#211104;
+}
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+border:1px solid #A2907D;
+padding:2px;
+}
+#header .widget, #main .widget {
+margin-bottom:12px;
+padding-bottom:12px;
+}
+#header {
+background:url("https://resources.blogblog.com/blogblog/data/scribe/divider.gif") no-repeat bottom left;
+}
+/** Page structure tweaks for layout editor wireframe */
+body#layout #outer-wrapper {
+margin-top: 0;
+padding-top: 0;
+}
+body#layout #wrap2,
+body#layout #wrap3 {
+margin-top: 0;
+}
+body#layout #main-top {
+display:none;
+}
+
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6616959642391988608&amp;zx=2344fdb9-10b6-4f72-a76f-6f7be3b557e0' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6616959642391988608&amp;zx=2344fdb9-10b6-4f72-a76f-6f7be3b557e0' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d6616959642391988608\x26blogName\x3dCalafia+Beach+Pundit\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://scottgrannis.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://scottgrannis.blogspot.com/\x26vt\x3d2392919336448348405',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'>
+<div id='main-top'></div>
+<!-- placeholder for image -->
+<div id='wrap2'><div id='wrap3'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://scottgrannis.blogspot.com/' style='display: block'>
+<img alt='Calafia Beach Pundit' height='229px; ' id='Header1_headerimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A07Ph-tRJbpCOhQW1vLvKgGC4dbpJWh60-itvpi6n9-bU0AVdingpk6EJLFcWIzzh-mgxgoaoDxzR5TlFPg5N0MlMx5B_vdx1ivkKhUdg9CO-S74gXaKZ06-JCDyxC8rBZUbs7yji6E/s600/Calafia+morning.jpeg' style='display: block' width='600px; '/>
+</a>
+</div>
+</div></div>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol no-items section' id='crosscol'></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget Subscribe' data-version='1' id='Subscribe2'>
+<div style='white-space:nowrap'>
+<h2 class='title'>Subscribe To</h2>
+<div class='widget-content'>
+<div class='subscribe-wrapper subscribe-type-POST'>
+<div class='subscribe expanded subscribe-type-POST' id='SW_READER_LIST_Subscribe2POST' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe2POST"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Fscottgrannis.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Fscottgrannis.blogspot.com%2Ffeeds%2Fposts%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://scottgrannis.blogspot.com/feeds/posts/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe2POST' onclick='return(_SW_toggleReaderList(event, "Subscribe2POST"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe2POST"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+Posts
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div class='subscribe-wrapper subscribe-type-COMMENT'>
+<div class='subscribe expanded subscribe-type-COMMENT' id='SW_READER_LIST_Subscribe2COMMENT' style='display:none;'>
+<div class='top'>
+<span class='inner' onclick='return(_SW_toggleReaderList(event, "Subscribe2COMMENT"));'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+<div class='feed-reader-links'>
+<a class='feed-reader-link' href='https://www.netvibes.com/subscribe.php?url=https%3A%2F%2Fscottgrannis.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-netvibes.png'/>
+</a>
+<a class='feed-reader-link' href='https://add.my.yahoo.com/content?url=https%3A%2F%2Fscottgrannis.blogspot.com%2Ffeeds%2Fcomments%2Fdefault' target='_blank'>
+<img src='https://resources.blogblog.com/img/widgets/subscribe-yahoo.png'/>
+</a>
+<a class='feed-reader-link' href='https://scottgrannis.blogspot.com/feeds/comments/default' target='_blank'>
+<img align='absmiddle' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class='bottom'></div>
+</div>
+<div class='subscribe' id='SW_READER_LIST_CLOSED_Subscribe2COMMENT' onclick='return(_SW_toggleReaderList(event, "Subscribe2COMMENT"));'>
+<div class='top'>
+<span class='inner'>
+<img class='subscribe-dropdown-arrow' src='https://resources.blogblog.com/img/widgets/arrow_dropdown.gif'/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe2COMMENT"));'>
+<img align='absmiddle' alt='' border='0' class='feed-icon' src='https://resources.blogblog.com/img/icon_feed12.png'/>
+All Comments
+</span>
+</span>
+</div>
+<div class='bottom'></div>
+</div>
+</div>
+<div style='clear:both'></div>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/'>
+2024
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='posts'>
+<li><a href='https://scottgrannis.blogspot.com/2024/10/this-wasnt-monster-employment-number.html'>This wasn&#39;t a monster employment number</a></li>
+<li><a href='https://scottgrannis.blogspot.com/2024/10/looking-pretty-good-m2-gdp-and.html'>Looking pretty good: M2, GDP and corporate profits</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2024/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2023/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(52)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2022/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2021/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(60)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2020/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(41)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2019/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(55)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(76)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2017/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(106)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2016/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(168)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2015/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(218)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2014/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(275)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2013/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(423)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(36)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2012/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(45)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(571)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(52)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(49)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(55)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(50)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(46)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2011/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(688)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(47)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(63)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(65)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(44)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(71)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(53)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(65)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(78)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2010/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(61)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(763)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(64)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(68)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(62)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(55)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(76)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(73)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(67)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(59)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(58)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(70)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2009/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(63)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2008/'>
+2008
+</a>
+<span class='post-count' dir='ltr'>(283)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2008/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(65)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2008/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(59)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2008/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(89)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://scottgrannis.blogspot.com/2008/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(70)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='https://www.blogger.com/profile/14028519647946868684'><img alt='My photo' class='profile-img' height='80' src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYf9Ayzw3EpfGG22TS3XKtqx9p19cVhMQPKOmc7iogR2qYbeZCtQdGQblT6X7sH0BiNTvp3fjFMzsR-LnyjIFT4at6hfKHqlhxnXP2hTtyaYCVHhvgJeA2oXG2PqfC5A/s113/*' width='74'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link g-profile' href='https://www.blogger.com/profile/14028519647946868684' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/14028519647946868684' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>Favorite blogs</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='//www.ftportfolios.com/Retail/Research/Subscription.aspx' target='_blank'>
+Brian Wesbury</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://cafehayek.com/' target='_blank'>
+Cafe Hayek</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.calculatedriskblog.com/' target='_blank'>
+Calculated Risk</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.aei.org/blog/carpe-diem/' target='_blank'>
+Carpe Diem/Mark Perry</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.cato.org/' target='_blank'>
+Cato-at-liberty</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://coyoteblog.com' target='_blank'>
+Coyote Blog</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.trendmacro.com/' target='_blank'>
+Don Luskin</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://dmarron.com' target='_blank'>
+Donald Marron</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://blog.yardeni.com/' target='_blank'>
+Ed Yardeni</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://gregmankiw.blogspot.com/' target='_blank'>
+Greg Mankiw</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://instapundit.com' target='_blank'>
+Instapundit</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://johnhcochrane.blogspot.com/' target='_blank'>
+John Cochrane</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://daringfireball.net/' target='_blank'>
+John Gruber</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://economicsone.com' target='_blank'>
+John Taylor</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.keithhennessey.com/' target='_blank'>
+Keith Hennessey</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://kudlowsmoneypolitics.blogspot.com/' target='_blank'>
+Larry Kudlow</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://marginalrevolution.com/' target='_blank'>
+Marginal Revolution</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.aei.org/' target='_blank'>
+Mark Perry</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.powerlineblog.com' target='_blank'>
+Power Line</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.realclearmarkets.com/' target='_blank'>
+RealClearMarkets</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.realclearpolitics.com/' target='_blank'>
+RealClearPolitics</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.hoover.org/publications/defining-ideas/by-author/10027' target='_blank'>
+Richard Epstein</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://www.themoneyillusion.com' target='_blank'>
+Scott Sumner</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://newmonetarism.blogspot.com/' target='_blank'>
+Stephen Williamson</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://wattsupwiththat.com' target='_blank'>
+Watts Up With That?</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.zerohedge.com' target='_blank'>
+Zero Hedge</a>
+</div>
+<div class='item-content'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget TextList' data-version='1' id='TextList1'>
+<h2>Favorite books</h2>
+<div class='widget-content'>
+<ul>
+<li>"A Random Walk down Wall Street" -Burton Malkiel</li>
+<li>"FDR's Folly" -Jim Powell</li>
+<li>"I Am John Galt" -Don Luskin</li>
+<li>"Panic" -Andrew Redleaf and Richard Vigilante</li>
+<li>"Parliament of Whores" -P.J. O'Rourke</li>
+<li>"Popular Economics" -John Tamny</li>
+<li>"The Education of a Speculator" -Victor Niederhoffer</li>
+<li>"The Financial Crisis and the Free Market Cure" -John Allison</li>
+<li>"The Seven Fat Years" -Robert Bartley</li>
+<li>"The Way the World Works" -Jude Wanniski</li>
+<li>"Wealth and Poverty" -George Gilder</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, October 4, 2024</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='839918768922725525'></a>
+<h3 class='post-title entry-title'>
+<a href='https://scottgrannis.blogspot.com/2024/10/this-wasnt-monster-employment-number.html'>This wasn't a monster employment number</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<br />This morning the market was apparently surprised by a stronger-than-expected jobs number. Private payrolls rose by 223K in September, vs. an expected gain of 125K. Some called it a "monster" number. From my perspective, however, nothing changed at all. Private sector jobs are growing by about 1.3 to 1.4% per year, as they have been for the past several months. This is moderate growth, probably enough to deliver overall economic growth of 2% per year or so. A nothing-burger.<br /><br /><div style="text-align: center;">Chart #1</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6rLL4aGYCDIiUnX5MQ69iJ1Q6GO63n1fdPEKS8b3sZQjE9j5aV3lnWuMg7pYfAPB2DKBOVWoybPIpIt2UzgdL0mk6qTrBh2N30p_3P3P0elJsuUGFZ01mYr2C3qLDa9Wsk3dzM60flcVZYcFJq36jjH6hxloF-65Po7X7snCtS9BPqlnHORQCsgbkNO4/s2329/Private%20Sector%20Jobs%20Growth.jpg"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6rLL4aGYCDIiUnX5MQ69iJ1Q6GO63n1fdPEKS8b3sZQjE9j5aV3lnWuMg7pYfAPB2DKBOVWoybPIpIt2UzgdL0mk6qTrBh2N30p_3P3P0elJsuUGFZ01mYr2C3qLDa9Wsk3dzM60flcVZYcFJq36jjH6hxloF-65Po7X7snCtS9BPqlnHORQCsgbkNO4/w400-h243/Private%20Sector%20Jobs%20Growth.jpg" /></a></div><div style="text-align: center;"><br /></div>Chart #1 shows the year over year change in private sector jobs, the only ones that really count. The big story, really, is the huge deceleration in growth over the past few years, followed by relatively moderate and steady growth in recent months. Even if we looked at jobs growth over a 6-month period, the story would be the same. Jobs numbers are very volatile on a monthly basis, so you have to look at growth over a multiple-month basis. And when you do that you see that nothing much has changed of late.&nbsp;<div><br /></div><div>There is nothing in today's report that should influence the Fed to change course. Inflation is yesterday's problem, and jobs growth is moderate. Lower interest rates are appropriate.</div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div><a addthis:title='This wasn&#39;t a monster employment number' addthis:url='https://scottgrannis.blogspot.com/2024/10/this-wasnt-monster-employment-number.html' class='addthis_button'><img alt="Bookmark and Share" height="16" src="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vYUmMTlGGR3Nd-n0MngMv2k9wcFpurM822eVTqobbDODXpL19XbXpNE6jhgZ_Y89NUhxBqJI5SbVxuwbFIGd4G1Vg60rJ8sh0LtdenGUwTgWwGZ3mymw=s0-d" style="border:0" width="125"></a>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pub=xa-4af8d6521a37b491" type="text/javascript"></script></div>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn'>Scott Grannis</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='https://scottgrannis.blogspot.com/2024/10/this-wasnt-monster-employment-number.html' rel='bookmark' title='permanent link'><abbr class='published' title='2024-10-04T08:11:00-07:00'>8:11&#8239;AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment/fullpage/post/6616959642391988608/839918768922725525' onclick=''>2
+comments</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=6616959642391988608&postID=839918768922725525' title='Email Post'>
+<img alt="" class="icon-action" height="13" src="//www.blogger.com/img/icon18_email.gif" width="18">
+</a>
+</span>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'></div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, October 3, 2024</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='2418218100265097402'></a>
+<h3 class='post-title entry-title'>
+<a href='https://scottgrannis.blogspot.com/2024/10/looking-pretty-good-m2-gdp-and.html'>Looking pretty good: M2, GDP and corporate profits</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<br /> I'm certainly not an apologist for the Biden administration, but as the charts below show, the economy on balance has done pretty well in the past several years. The monetary source of the Big Inflation of 2021-2022 has been largely extinguished, real economic growth has exceeded expectations, and corporate profits have been fairly spectacular.&nbsp;<div class="separator" style="clear: both; text-align: center;"><br /></div><div><div><div style="text-align: center;">Chart #1</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPjd-majaQgsVIMUI-Cq76Gw0NZAwn_9sEbn4Zvxd1aERDwH1UNYc03drVMzx42EckEBvL8qf123AElHojROrFjymDdjRfIGzMPMWz3nVv8VWDiqqKX737b6oX_NV-9VwEd8CsIE3aIFQyPrJg4UufzOvQrcZ2mW_hsw3zB0PvUCZTSbfKWdgkZiz6WGA/s2341/2%20and%203%25%20trends.jpg"><img border="0" height="241" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPjd-majaQgsVIMUI-Cq76Gw0NZAwn_9sEbn4Zvxd1aERDwH1UNYc03drVMzx42EckEBvL8qf123AElHojROrFjymDdjRfIGzMPMWz3nVv8VWDiqqKX737b6oX_NV-9VwEd8CsIE3aIFQyPrJg4UufzOvQrcZ2mW_hsw3zB0PvUCZTSbfKWdgkZiz6WGA/w400-h241/2%20and%203%25%20trends.jpg" width="400" /></a></div><div style="text-align: center;"><br /></div><div style="text-align: left;">Recent revisions to the GDP statistics showed the economy posting better than 2.3% annual growth over the past several years (see Chart #1). Of course, this is still far less than it might have been had the economy tracked the 3.1% annual growth path that began in 1966 and continued through 2007. But, considering that many observers were predicting a recession in 2023, economic growth has been surprisingly strong. My own forecast of growth in recent years called for growth slightly in excess of 2% per year, and I am pleasantly surprised to have been too cautious, albeit much more optimistic than most.&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Chart #2</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGdKi_nppvwF7k6_DLxSjYnwBQfjRxFPgIt_HxmDrXrjNQcaQpwefbinz-15K6WVSMjJoKGlPC_ORQLKtS_34c1ZZkaiq__7TrICVHQnqKXnyF8hcUBVAcut0X2-gB0uTKnxdWGWSkUgFJbTAppP9asQXNYV8FvNZ5aMrFVWGLSAoEm6AUzwqAbCg3gQw/s2308/M2%20vs%206%25%2095-.jpg"><img border="0" height="244" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGdKi_nppvwF7k6_DLxSjYnwBQfjRxFPgIt_HxmDrXrjNQcaQpwefbinz-15K6WVSMjJoKGlPC_ORQLKtS_34c1ZZkaiq__7TrICVHQnqKXnyF8hcUBVAcut0X2-gB0uTKnxdWGWSkUgFJbTAppP9asQXNYV8FvNZ5aMrFVWGLSAoEm6AUzwqAbCg3gQw/w400-h244/M2%20vs%206%25%2095-.jpg" width="400" /></a></div><div style="text-align: center;"><br /></div><div style="text-align: left;">Chart #2 shows the level of the M2 money supply. The huge bulge in M2 tracks the massive government stimulus payments in 2020 and 2021 that were essentially financed by money printing. With a delay of about a year, some $6 trillion of monetary "stimulus" subsequently turned into raging inflation in 2021 and 2022. The Fed was unfortunately slow to react, but by late 2022 they had raised rates by enough to neutralize excess M2 and thus slow inflation.&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Chart #3</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTlQXIIAFi60Glo4IBgcUWjcxGxcdBzCd7UYMAh6DdQ4P18HvsrL_FEeEn0Q2mWRQk9chgYn0tFqYKW7vHsJsuArzaR1So-H9GF-daHR6VDFbgXGBTIb4QLWPeTWxnNf08EeeVyPy9F_s6VC4qyHNhhlTk6Tv5PcS4cRTU0dOpVLp9HYwuBqQLa0ph4d4/s2395/Money%20Demand.jpg"><img border="0" height="233" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTlQXIIAFi60Glo4IBgcUWjcxGxcdBzCd7UYMAh6DdQ4P18HvsrL_FEeEn0Q2mWRQk9chgYn0tFqYKW7vHsJsuArzaR1So-H9GF-daHR6VDFbgXGBTIb4QLWPeTWxnNf08EeeVyPy9F_s6VC4qyHNhhlTk6Tv5PcS4cRTU0dOpVLp9HYwuBqQLa0ph4d4/w400-h233/Money%20Demand.jpg" width="400" /></a></div><div style="text-align: center;"><br /></div><div style="text-align: left;">Chart #3 is key to understanding the interaction between excess money and inflation. A $6 trillion surge in deficit-financed government spending was not initially inflationary, because the demand for money (which is proxied by the ratio of M2 to nominal GDP in in the chart) surged. That was the logical result of handing tons of cash to a public that had little desire and even less ability to spend it during the lock-down phase of the Covid disaster. But life began to return to normal in early 2021, and the public started to spend the money (i.e., money demand fell). The problem, of course, is that extra spending collided with supply-chain shortages and rising prices were the result. Money demand has almost returned to its pre-Covid levels now, the economy has resumed a more normal growth path, and inflation has become a non-issue for at least the past year.&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Chart #4</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXX_Ggj-bCTp2z4Oimnb8VveUl0nhD1nkhyUEqkMp6-BhZmlTJ4E4PJUBoXhjtWAv45HVEc2KHgevJ-7AHgiELeBMFsLBAMqvLgLMH1JC0NxaNqZ7kPhPbcmP5biRGnBjkIxaAcs1-MQVvTXGxyOEvPfQHoWDyVULHeJe2VVBEN70TgEX-klRlhG4Rwl8/s2645/Profits%20vs%20Nominal%20GDP.jpg"><img border="0" height="217" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXX_Ggj-bCTp2z4Oimnb8VveUl0nhD1nkhyUEqkMp6-BhZmlTJ4E4PJUBoXhjtWAv45HVEc2KHgevJ-7AHgiELeBMFsLBAMqvLgLMH1JC0NxaNqZ7kPhPbcmP5biRGnBjkIxaAcs1-MQVvTXGxyOEvPfQHoWDyVULHeJe2VVBEN70TgEX-klRlhG4Rwl8/w400-h217/Profits%20vs%20Nominal%20GDP.jpg" width="400" /></a></div><div style="text-align: center;"><br /></div><div style="text-align: left;">Chart #4 compares the level of corporate profits (after-tax, and ex Fed profits) with nominal GDP.&nbsp;</div><div style="text-align: center;"><br /></div><div style="text-align: center;">Chart #5</div><div style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTH50DkIB0jS7FxMhLSKxq7bTUia7GuZvQ_Hm967U7_IZPvMn024B3vENK5OYdr_AfHx-J0vVctDMEZklhxvEFZSUJbNaAT7i5sYUZjq6gYWEvyp7_jyLYSccVTPHkR8ll17Kn6rROQE4tYcU1qPNGU7MPLjsi7pMGTya5nyGnUre6MnA5T3ujvYy-7sY/s2366/Profits%20%25%20of%20GDP%2060-.jpg"></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTH50DkIB0jS7FxMhLSKxq7bTUia7GuZvQ_Hm967U7_IZPvMn024B3vENK5OYdr_AfHx-J0vVctDMEZklhxvEFZSUJbNaAT7i5sYUZjq6gYWEvyp7_jyLYSccVTPHkR8ll17Kn6rROQE4tYcU1qPNGU7MPLjsi7pMGTya5nyGnUre6MnA5T3ujvYy-7sY/s2366/Profits%20%25%20of%20GDP%2060-.jpg"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTH50DkIB0jS7FxMhLSKxq7bTUia7GuZvQ_Hm967U7_IZPvMn024B3vENK5OYdr_AfHx-J0vVctDMEZklhxvEFZSUJbNaAT7i5sYUZjq6gYWEvyp7_jyLYSccVTPHkR8ll17Kn6rROQE4tYcU1qPNGU7MPLjsi7pMGTya5nyGnUre6MnA5T3ujvYy-7sY/w400-h240/Profits%20%25%20of%20GDP%2060-.jpg" width="400" /></a></div></div></div><div style="text-align: center;"><br /></div><div style="text-align: left;">As Chart #5 shows, profits are at all-time record levels compared to the size of the economy, and they began their current surge (briefly interrupted by Covid) in 2019, following Trump's 2018 reduction in the tax rate on corporate profits from 28% to 21%. Since the end of 2018, corporate profits (after-tax and adjusted for continuing operations and ex-Fed profits) have risen 58%, while nominal GDP rose 39%. Despite the sizable cut in tax rates, corporate tax payments to Treasury rose from a low of $189 billion in the 12 months ending Jan. '19, to $516 billion in the 12 months ending August '24&#8212;a whopping increase of 173%! And, not surprisingly, the S&amp;P 500 is up 130% since 2018.&nbsp;</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Art Laffer, take a bow!</div><div style="text-align: left;"><br /></div><div style="text-align: left;"><i>While it's great to see evidence that what's good for corporations is also good for the economy, there's a cautionary message here.</i> If, as they have repeatedly promised, a Harris-Walz administration allows the Trump tax cuts to reverse as scheduled at the end of next year, this could pose a significant threat to the economy and, by extension, the stock market.&nbsp;</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Please excuse the absence of posts this past month. I haven't had much to say, and I needed a break. Plus, we had a delightful trip to Greece.</div><div style="text-align: left;"><br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div><a addthis:title='Looking pretty good: M2, GDP and corporate profits' addthis:url='https://scottgrannis.blogspot.com/2024/10/looking-pretty-good-m2-gdp-and.html' class='addthis_button'><img alt="Bookmark and Share" height="16" src="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vYUmMTlGGR3Nd-n0MngMv2k9wcFpurM822eVTqobbDODXpL19XbXpNE6jhgZ_Y89NUhxBqJI5SbVxuwbFIGd4G1Vg60rJ8sh0LtdenGUwTgWwGZ3mymw=s0-d" style="border:0" width="125"></a>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pub=xa-4af8d6521a37b491" type="text/javascript"></script></div>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn'>Scott Grannis</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='https://scottgrannis.blogspot.com/2024/10/looking-pretty-good-m2-gdp-and.html' rel='bookmark' title='permanent link'><abbr class='published' title='2024-10-03T17:13:00-07:00'>5:13&#8239;PM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment/fullpage/post/6616959642391988608/2418218100265097402' onclick=''>5
+comments</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=6616959642391988608&postID=2418218100265097402' title='Email Post'>
+<img alt="" class="icon-action" height="13" src="//www.blogger.com/img/icon18_email.gif" width="18">
+</a>
+</span>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'></div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+          </div></div>
+        
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, August 29, 2024</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='916085331993002551'></a>
+<h3 class='post-title entry-title'>
+<a href='https://scottgrannis.blogspot.com/2024/08/kamalas-tax-proposals-frightening.html'>Kamala's tax proposals: frightening!</a>
+</h3>
+<div class='post-header-line-1'></div>
+<div class='post-body entry-content'>
+<div><br /></div>If you subscribe to my good friend Steve Moore's daily Hotline (subscribe for free <a href="https://committeetounleashprosperity.com/hotline/?utm_source=MailChimp&amp;utm_medium=click">here</a>), you have already seen this. I reprint it so as to maximize its distribution. These proposals are so astoundingly anti-business and anti-prosperity that I can't imagine they will ever see the light of day. But at the very least you have here a liberal wish-list that, if even partially enacted, would very likely eviscerate the economy. <a href="https://pjmedia.com/rick-moran/2024/08/29/harriss-5-trillion-tax-plan-includes-an-unconstitutional-tax-on-unrealized-capital-gains-n4932090">Click here</a> for more background info.<br /><table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="background-color: white; border-collapse: collapse; color: black; font-family: LucidaSans; font-size: 16px; font-variant-caps: normal; min-width: 100%; width: 100%;"><tbody class="mcnTextBlockOuter"><tr><td class="mcnTextBlockInner" style="padding-top: 9px;" valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse; float: left; max-width: 100%; min-width: 100%; width: 100%;"><tbody><tr><td class="mcnTextContent" style="color: #202020; font-family: Helvetica; font-size: 16px; line-height: 24px; padding: 0px 18px 9px; word-break: break-word;" valign="top"><p style="line-height: 24px; margin: 10px 0px; padding: 0px;"><strong>Kamala Proposes $5 Trillion in New Taxes &#8211;&nbsp;the Biggest Tax Hike in the History of the World</strong></p></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="background-color: white; border-collapse: collapse; color: black; font-family: LucidaSans; font-size: 16px; font-variant-caps: normal; min-width: 100%; width: 100%;"><tbody class="mcnTextBlockOuter"><tr><td class="mcnTextBlockInner" style="padding-top: 9px;" valign="top"><table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnTextContentContainer" style="border-collapse: collapse; float: left; max-width: 100%; min-width: 100%; width: 100%;"><tbody><tr><td class="mcnTextContent" style="color: #202020; font-family: Helvetica; font-size: 16px; line-height: 24px; padding: 0px 18px 9px; word-break: break-word;" valign="top"><p dir="ltr" style="line-height: 24px; margin: 10px 0px; padding: 0px;">We've argued that Harris-Walz is the most anti-business ticket by a major presidential party in our lifetimes and perhaps in American history.&nbsp;And we said this BEFORE we saw the new tax plan.&nbsp;</p><p dir="ltr" style="line-height: 24px; margin: 10px 0px; padding: 0px;"><br />Instead of lowering tax rates to make America more competitive, it raises nearly everyone.<br /><br />The Harris tax plan would:</p><ul><li>Raise the corporate tax from 21% to 28%</li><li>Quadruple the tax on stock buybacks from 1% to 4%</li><li>Double the global minimum tax from 10% to 20%</li><li>Raise the top Income tax rate from 37% to 39.6%</li><li>Raise the corporate alternative minimum tax from 15% to 21%</li><li>Raise the capital gains tax from 24% to 43.5%</li><li>Impose the first-ever tax on unrealized capital gains at 25%</li><li>Double the number of Americans subject to the death tax&nbsp;</li></ul></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="background-color: white; border-collapse: collapse; color: black; font-family: LucidaSans; font-size: 16px; font-variant-caps: normal; min-width: 100%; text-align: center; width: 100%;"><tbody class="mcnImageBlockOuter"><tr><td class="mcnImageBlockInner" style="padding: 0px;" valign="top"><table border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="border-collapse: collapse; float: left; min-width: 100%; text-align: center; width: 100%;"><tbody><tr><td class="mcnImageContent" style="padding: 0px; text-align: center;" valign="top"><div style="text-align: left;"><span style="font-size: 16px;">+</span><a href="https://unleashprosperitynow.us19.list-manage.com/track/click?u=dc8d30edd7976d2ddf9c2bf96&amp;id=f80791522a&amp;e=5b20d867cf" target="_blank" title=""><img align="center" alt="" class="mcnImage" height="234" src="https://mcusercontent.com/dc8d30edd7976d2ddf9c2bf96/images/761ae641-ea66-425f-acf0-645246c6cc06.png" style="border: 0px; display: inline; height: auto; max-width: 1284px; outline: currentcolor; padding-bottom: 0px; text-decoration: none; vertical-align: bottom;" width="400" /></a></div><div style="text-align: left;"><br /></div><div style="text-align: left;"><span style="caret-color: rgb(32, 32, 32); color: #202020; font-family: Helvetica; font-size: 16px; text-align: center;">The compounding effect of these multiple tiers of taxation would mean that a $100 investment in a new company could be subject to an 80% tax rate. &nbsp;</span></div><span style="caret-color: rgb(32, 32, 32); color: #202020; font-family: Helvetica; font-size: 16px; text-align: left;"><div style="text-align: center;">&nbsp;</div></span></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" class="mcnTextBlock" style="background-color: white; border-collapse: collapse; color: black; font-family: LucidaSans; font-size: 16px; font-variant-caps: normal; min-width: 100%; text-align: center; width: 100%;"><tbody class="mcnTextBlockOuter"><tr></tr></tbody></table>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div><a addthis:title='Kamala&#39;s tax proposals: frightening!' addthis:url='https://scottgrannis.blogspot.com/2024/08/kamalas-tax-proposals-frightening.html' class='addthis_button'><img alt="Bookmark and Share" height="16" src="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vYUmMTlGGR3Nd-n0MngMv2k9wcFpurM822eVTqobbDODXpL19XbXpNE6jhgZ_Y89NUhxBqJI5SbVxuwbFIGd4G1Vg60rJ8sh0LtdenGUwTgWwGZ3mymw=s0-d" style="border:0" width="125"></a>
+<script src="//s7.addthis.com/js/250/addthis_widget.js#pub=xa-4af8d6521a37b491" type="text/javascript"></script></div>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn'>Scott Grannis</span>
+</span>
+<span class='post-timestamp'>
+at
+<a class='timestamp-link' href='https://scottgrannis.blogspot.com/2024/08/kamalas-tax-proposals-frightening.html' rel='bookmark' title='permanent link'><abbr class='published' title='2024-08-29T16:21:00-07:00'>4:21&#8239;PM</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='https://www.blogger.com/comment/fullpage/post/6616959642391988608/916085331993002551' onclick=''>19
+comments</a>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=6616959642391988608&postID=916085331993002551' title='Email Post'>
+<img alt="" class="icon-action" height="13" src="//www.blogger.com/img/icon18_email.gif" width="18">
+</a>
+</span>
+</span>
+<span class='post-backlinks post-comment-link'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-2'></div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://scottgrannis.blogspot.com/search?updated-max=2024-08-29T16:21:00-07:00&amp;max-results=3' id='Blog1_blog-pager-older-link' title='Older Posts'>Older Posts</a>
+</span>
+<a class='home-link' href='https://scottgrannis.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://scottgrannis.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+<div id='footer-wrapper'>
+<div class='footer no-items section' id='footer'></div>
+</div>
+</div></div>
+<div id='main-bot'></div>
+<!-- placeholder for image -->
+</div>
+<!-- Site Meter -->
+<script src="//sm2.sitemeter.com/js/counter.js?site=sm2CalafiaBeach" type="text/javascript">
+</script>
+<noscript>
+<a href='http://sm2.sitemeter.com/stats.asp?site=sm2CalafiaBeach' target='_top'>
+<img alt="Site Meter" border="0" src="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_u5kVjE9tVQDpQIiwhNkaq-u58CgsoG2GNTIA5O1JSR_8dedeeNsdk0Rhguky7cbLJ4jqyPJyPTJ_n0P0Hjx_FaIhi5FXwISJ8CCY7o2zgOdyaNF5v7jHhtQ-w=s0-d"></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->
+<script type='text/javascript'>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type='text/javascript'>
+try {
+var pageTracker = _gat._getTracker("UA-15250526-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!--\xc8 tua responsabilit\xe0 avvisare i visitatori dei cookie utilizzati e dei dati raccolti sul tuo blog. In Blogger \xe8 disponibile una notifica standard che puoi utilizzare sul tuo blog. Puoi personalizzarla o sostituirla con una notifica preparata da te. Per maggiori dettagli, visita http://www.blogger.com/go/cookiechoices.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Questo sito utilizza cookie di Google per erogare i propri servizi e per analizzare il traffico. Il tuo indirizzo IP e il tuo user agent sono condivisi con Google, unitamente alle metriche sulle prestazioni e sulla sicurezza, per garantire la qualit\xe0 del servizio, generare statistiche di utilizzo e rilevare e contrastare eventuali abusi.',
+          (window.cookieOptions && cookieOptions.close) || 'OK',
+          (window.cookieOptions && cookieOptions.learn) || 'Ulteriori informazioni',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/338641159-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5U4JnpI39VaWG4tV3YRPR9wdzsMA:1728228608547';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6616959642391988608','//scottgrannis.blogspot.com/','6616959642391988608');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6616959642391988608', 'title': 'Calafia Beach Pundit', 'url': 'https://scottgrannis.blogspot.com/', 'canonicalUrl': 'http://scottgrannis.blogspot.com/', 'homepageUrl': 'https://scottgrannis.blogspot.com/', 'searchUrl': 'https://scottgrannis.blogspot.com/search', 'canonicalHomepageUrl': 'http://scottgrannis.blogspot.com/', 'blogspotFaviconUrl': 'https://scottgrannis.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Calafia Beach Pundit - Atom\x22 href\x3d\x22https://scottgrannis.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Calafia Beach Pundit - RSS\x22 href\x3d\x22https://scottgrannis.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Calafia Beach Pundit - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6616959642391988608/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/14028519647946868684\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/991df7aaa4d2cf44', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Calafia Beach Pundit', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Calafia Beach Pundit', 'description': '', 'url': 'https://scottgrannis.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe2', 'sidebar', document.getElementById('Subscribe2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar', document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 26}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextListView', new _WidgetInfo('TextList1', 'sidebar', document.getElementById('TextList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1203661419-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/13464135-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>
+</html>
